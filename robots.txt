@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahjdigital.com/sitemap.xml
